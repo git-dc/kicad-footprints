@@ -1,5 +1,5 @@
-(footprint "DRQ73" (version 20210623) (generator pcbnew) (layer "F.Cu")
-  (tedit 60F99D99)
+(footprint "DRQ73" (version 20210824) (generator pcbnew) (layer "F.Cu")
+  (tedit 614A72DB)
   (fp_text reference "REF**" (at 0.127 4.699 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d963b472-a073-44f8-bde6-4549aa46812f)
@@ -54,4 +54,9 @@
   (pad "2" smd roundrect (at -3.085 0.7) (size 1.73 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 7543ceb3-608f-4545-86cc-d1dd6d8dc5a0))
   (pad "3" smd roundrect (at 3.085 0.7) (size 1.73 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 44071754-1e47-4dfc-8d1c-d89ad2a6be37))
   (pad "4" smd roundrect (at 3.085 -0.7) (size 1.73 1) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp bf71f9c1-2bed-4aea-8f00-e15f58a7763a))
+  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRR1260.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 0.5 0.5 0.4))
+    (rotate (xyz 0 0 0))
+  )
 )

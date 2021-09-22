@@ -1,5 +1,5 @@
-(footprint "PG-TDSON-8" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61242E7D)
+(footprint "PG-TDSON-8" (version 20210824) (generator pcbnew) (layer "F.Cu")
+  (tedit 614A76EF)
   (zone_connect 2)
   (fp_text reference "REF**" (at 0 4.826 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -56,4 +56,9 @@
     (zone_connect 2) (tstamp ada1b8d5-4708-4117-af95-5ecc8f33ca0e))
   (pad "3" smd roundrect (at -2 -2.925) (size 0.7 1) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.05)
     (zone_connect 2) (tstamp dc07d508-eb2d-4531-b963-fec110ecacca))
+  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TDSON-8-1.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )

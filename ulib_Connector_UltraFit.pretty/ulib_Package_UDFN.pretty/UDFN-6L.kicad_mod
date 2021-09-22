@@ -1,5 +1,5 @@
-(footprint "UDFN-6L" (version 20210623) (generator pcbnew) (layer "F.Cu")
-  (tedit 60F5913F)
+(footprint "UDFN-6L" (version 20210824) (generator pcbnew) (layer "F.Cu")
+  (tedit 614A6FBD)
   (fp_text reference "REF**" (at -2.159 0 90 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 547e2cf1-87e6-44c8-9bba-1449891d6304)
@@ -22,4 +22,9 @@
   (pad "4" smd roundrect (at 0.65 -0.85) (size 0.3 1.05) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp e55b8cf8-76a2-4f25-8199-1bf1401ded5e))
   (pad "5" smd roundrect (at 0 -0.85) (size 0.3 1.05) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 3d880032-0d4f-40cd-b29f-9c60ac04ea1e))
   (pad "6" smd roundrect (at -0.65 -0.85) (size 0.3 1.05) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp f358036a-3b55-48db-9701-e550d1d4d943))
+  (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )

@@ -1,5 +1,5 @@
-(footprint "1722991104" (version 20210623) (generator pcbnew) (layer "F.Cu")
-  (tedit 60F9F5F4)
+(footprint "1722991104" (version 20210824) (generator pcbnew) (layer "F.Cu")
+  (tedit 614B7D65)
   (fp_text reference "REF**" (at 7.5 5.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5e100dc5-f65c-4519-8626-d57d27dfd4a6)
@@ -34,4 +34,9 @@
   (pad "4" thru_hole circle (at 2.3 1.75) (size 2 2) (drill 1.02) (layers *.Cu *.Mask) (tstamp 6eabcf25-8551-48aa-b1c7-62eda8c0601c))
   (pad "5" thru_hole oval (at -0.88 -4.25) (size 2.9 1.2) (drill oval 2.3 0.6) (layers *.Cu *.Mask) (tstamp 6cab7d2b-5448-4119-ad6c-e86f66b30b06))
   (pad "5" thru_hole oval (at -0.88 4.25) (size 2.9 1.2) (drill oval 2.3 0.6) (layers *.Cu *.Mask) (tstamp eca2184f-b4dc-4329-b76c-286aafc33de6))
+  (model "${KICAD6_3RD_PARTY}/../3dmodels/1722991104.step"
+    (offset (xyz 0 0 5.842))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )

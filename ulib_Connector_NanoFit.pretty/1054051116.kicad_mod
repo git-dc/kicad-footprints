@@ -1,5 +1,5 @@
-(footprint "1054051116" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 610311C9)
+(footprint "1054051116" (version 20210824) (generator pcbnew) (layer "F.Cu")
+  (tedit 614A8370)
   (descr "Molex Nano-Fit 16 pin BLK PN: 105405-1116")
   (fp_text reference "REF**" (at -1.524 12.954 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -136,4 +136,9 @@
   (pad "16" smd roundrect (at 5.64 -8.75 90) (size 1.24 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp c88a7f5a-226a-4671-b790-bc4dfa3e6d23))
   (pad "17" smd roundrect (at -2.59 10.72 90) (size 1.1 8.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp cd96b1a4-3334-45a0-b1da-5f9bb81d8b71))
   (pad "17" smd roundrect (at -2.59 -11.32 90) (size 1.1 8.2) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ff261e57-a1b3-494c-b390-7dc03eb9b7b5))
+  (model "${KICAD6_3RD_PARTY}/../3dmodels/1054051116.step"
+    (offset (xyz 2.032 0 3.175))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )
