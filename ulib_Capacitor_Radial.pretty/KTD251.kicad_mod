@@ -27,4 +27,9 @@
     (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp baff1daa-2300-4ad1-b7f9-64cc613f04c3))
   (pad "1" thru_hole circle (at -12.5 0) (size 2.54 2.54) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 67aa86a0-52b7-44d1-aefc-c3abc03895ed))
   (pad "2" thru_hole circle (at 12.5 0) (size 2.54 2.54) (drill 1) (layers "*.Cu" "*.Mask") (tstamp e2f17e1c-674a-4574-b995-e62be9db27d3))
+  (model "${KICAD7_3RD_PARTY}/3dmodels/kicad-3dmodels/CAP_NTD_99_07_5T_NIP.step"
+    (offset (xyz -12.4968 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
