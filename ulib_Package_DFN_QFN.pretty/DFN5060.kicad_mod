@@ -1,7 +1,7 @@
 (footprint "DFN5060" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at 0 4.405 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 4.405) (layer "F.SilkS" knockout)
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4a5f2c13-4ff6-4e57-a901-c1024e3bb447)
   )

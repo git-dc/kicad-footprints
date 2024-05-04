@@ -1,7 +1,7 @@
 (footprint "KTD251" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -8.08 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -5.08) (layer "F.SilkS" knockout)
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9d9c7b44-2650-4820-8502-99dc0bc34e51)
   )

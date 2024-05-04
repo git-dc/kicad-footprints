@@ -1,7 +1,7 @@
 (footprint "3780-0-14-15-00-00-03-0" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (attr through_hole)
-  (fp_text reference "REF**" (at -5.08 0 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at -5.08 0 unlocked) (layer "F.SilkS" knockout)
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4ec881ce-7485-4be1-b891-aebb87302ffe)
   )
