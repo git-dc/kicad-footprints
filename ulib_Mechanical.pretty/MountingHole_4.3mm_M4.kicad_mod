@@ -4,7 +4,7 @@
   (tags "mounting hole 4.3mm no annular m4")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -5.3) (layer "F.SilkS" knockout) hide
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp ce8e44e6-34a9-47da-8347-47185365a99d)
   )
   (fp_text value "MountingHole_4.3mm_M4" (at 0 5.3) (layer "F.Fab")

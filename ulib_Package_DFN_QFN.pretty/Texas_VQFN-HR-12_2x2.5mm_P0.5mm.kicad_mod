@@ -4,7 +4,7 @@
   (tags "RUX0012A Texas VQFN-HR NoLead")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.286) (layer "F.SilkS" knockout)
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp abfb3f5b-7f4a-43ee-a5b8-5bf0d7f6022d)
   )
   (fp_text value "Texas_VQFN-HR-12_2x2.5mm_P0.5mm" (at 0 2.58) (layer "F.Fab")

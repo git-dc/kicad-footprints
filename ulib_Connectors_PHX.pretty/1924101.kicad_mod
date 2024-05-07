@@ -4,7 +4,7 @@
   (tags "phoenix_contact connector MSTB_01x04_GF_5.08mm_MH")
   (attr through_hole)
   (fp_text reference "REF**" (at 7.62 -3.2 unlocked) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 99f6bfcc-c5b1-4aa3-8a57-dae5715495fa)
   )
   (fp_text value "1924101" (at 7.62 11.2) (layer "F.Fab")

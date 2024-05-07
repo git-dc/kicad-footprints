@@ -4,7 +4,7 @@
   (tags "test point THT pad")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -1.778) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 4e38932b-eb8d-42a1-bf6a-e0b6fd21674f)
   )
   (fp_text value "TestPoint_THTPad_D1.0mm_Drill0.5mm" (at 0 1.55) (layer "F.Fab")

@@ -1,7 +1,7 @@
 (footprint "SW_SPSTx02_DIP" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (fp_text reference "REF**" (at 0 -4.699) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp fddbd41c-2fbb-49b0-a37e-3d4fd7304b7d)
   )
   (fp_text value "SW_SPSTx02_DIP" (at 0.127 4.85 unlocked) (layer "F.Fab")

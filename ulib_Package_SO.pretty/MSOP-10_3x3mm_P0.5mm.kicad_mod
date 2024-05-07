@@ -5,7 +5,7 @@
   (clearance 0.1524)
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.048) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 200f47ed-19bd-44ad-98ac-06914014d1f2)
   )
   (fp_text value "MSOP-10_3x3mm_P0.5mm" (at 0 2.6) (layer "F.Fab")

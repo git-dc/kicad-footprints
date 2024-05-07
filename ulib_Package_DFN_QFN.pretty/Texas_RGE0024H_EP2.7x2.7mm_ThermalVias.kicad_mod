@@ -4,7 +4,7 @@
   (tags "Texas QFN NoLead")
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.32) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 748f29e8-2d91-4320-a235-a7bae6cd4acd)
   )
   (fp_text value "Texas_RGE0024H_EP2.7x2.7mm_ThermalVias" (at 0 3.32) (layer "F.Fab")

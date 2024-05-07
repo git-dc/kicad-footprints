@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at 0 -4.064 unlocked) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp bcfb6387-6aad-4ae8-9f67-0a8ad09e9138)
   )
   (fp_text value "B72542V6600K062" (at 0 4.064 unlocked) (layer "F.Fab")

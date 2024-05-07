@@ -1,7 +1,7 @@
 (footprint "SW_SPSTx01_Tactile" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (fp_text reference "REF**" (at -0.016 -3.556) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp f7ba94fe-607a-4be7-a10b-1ce01b5238e8)
   )
   (fp_text value "SW_SPSTx01_Tactile" (at -0.016 3.834 unlocked) (layer "F.Fab")

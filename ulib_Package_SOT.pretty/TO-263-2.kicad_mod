@@ -4,7 +4,7 @@
   (tags "D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404")
   (attr smd)
   (fp_text reference "REF**" (at -7.62 0) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 2727f930-30ad-4420-b760-e78e72211d44)
   )
   (fp_text value "TO-263-2" (at 0 6.65) (layer "F.Fab")

@@ -2,7 +2,7 @@
   (tedit 60F9F3D1)
   (descr "Molex Ultra-Fit 2-pin BLK Kinked Pins PN: 172286-1102")
   (fp_text reference "REF**" (at 0 5.25 unlocked) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 87c6d41d-80cf-43b4-81ad-7bf7929a1454)
   )
   (fp_text value "1722861102" (at 0 -5.25 unlocked) (layer "F.Fab")

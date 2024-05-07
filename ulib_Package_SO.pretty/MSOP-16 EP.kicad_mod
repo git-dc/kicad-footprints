@@ -1,7 +1,7 @@
 (footprint "MSOP-16 EP" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (fp_text reference "REF**" (at 0 -3.048) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 7a239a38-3381-4c9b-9022-3ee71fdacdbc)
   )
   (fp_text value "MSOP-16 EP" (at 0 4.826 unlocked) (layer "F.Fab")

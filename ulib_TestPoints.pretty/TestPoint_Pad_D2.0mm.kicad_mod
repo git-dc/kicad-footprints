@@ -4,7 +4,7 @@
   (tags "test point SMD pad")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -2.54) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 73dbb00e-082b-4c47-a5e8-349b5d30d4ab)
   )
   (fp_text value "TestPoint_Pad_D2.0mm" (at 0 2.05) (layer "F.Fab")

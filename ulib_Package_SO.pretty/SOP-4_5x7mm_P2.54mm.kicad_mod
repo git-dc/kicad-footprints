@@ -4,7 +4,7 @@
   (tags "SOP SO")
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.556) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 60e0a493-c759-4f61-813c-a647ba8ccdc3)
   )
   (fp_text value "SOP-4_5x7mm_P2.54mm" (at 0 3.508) (layer "F.Fab")

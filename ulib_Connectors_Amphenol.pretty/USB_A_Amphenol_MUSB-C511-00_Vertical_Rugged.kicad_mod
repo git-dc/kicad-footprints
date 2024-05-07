@@ -4,7 +4,7 @@
   (tags "USB_A_MUSB_Straight dual female connector straight rugged MUSB C511")
   (attr through_hole)
   (fp_text reference "REF**" (at -11.176 0) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 90e4385f-9d55-4e1d-9da4-ef7809daccab)
   )
   (fp_text value "USB_B_Amphenol_MUSB-D511_Vertical_Rugged" (at -1.25 10.25) (layer "F.Fab")

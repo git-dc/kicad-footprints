@@ -1,7 +1,7 @@
 (footprint "1722981106" (version 20210623) (generator pcbnew) (layer "F.Cu")
   (tedit 60F9F425)
   (fp_text reference "REF**" (at 7.5 5.5 unlocked) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp e87e7ddf-19a1-4a06-af8d-cc8b3f7559b8)
   )
   (fp_text value "1722981106" (at 0 -7 unlocked) (layer "F.Fab")

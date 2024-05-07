@@ -1,7 +1,7 @@
 (footprint "CDEP147" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (fp_text reference "REF**" (at 0 -8.255) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp de5b2619-d430-4824-914e-305ca3e3a8f9)
   )
   (fp_text value "CDEP147" (at -0.254 8.66 unlocked) (layer "F.Fab")

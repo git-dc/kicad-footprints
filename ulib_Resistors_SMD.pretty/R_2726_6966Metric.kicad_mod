@@ -4,7 +4,7 @@
   (tags "resistor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -5.08) (layer "F.SilkS" knockout)
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp aa958b8d-703c-4d5d-8a6f-8094603b30c9)
   )
   (fp_text value "R_2726_6966Metric" (at 0 5.08) (layer "F.Fab")

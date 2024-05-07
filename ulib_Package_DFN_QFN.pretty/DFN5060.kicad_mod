@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (attr smd)
   (fp_text reference "REF**" (at 0 4.405) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 4a5f2c13-4ff6-4e57-a901-c1024e3bb447)
   )
   (fp_text value "DFN5060" (at 0 5.929 unlocked) (layer "F.Fab")

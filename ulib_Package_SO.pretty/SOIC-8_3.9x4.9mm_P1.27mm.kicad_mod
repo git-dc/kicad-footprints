@@ -4,7 +4,7 @@
   (tags "SOIC SO")
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.4) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp a462a452-c598-4feb-b319-799e31aebaaa)
   )
   (fp_text value "SOIC-8_3.9x4.9mm_P1.27mm" (at 0 3.4) (layer "F.Fab")

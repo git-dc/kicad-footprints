@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -1.524) (layer "F.SilkS" knockout) hide
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp e2c35ed5-fe8c-4156-9369-2bb352f6b3e5)
   )
   (fp_text value "ZipTie Slot" (at 0 -4.088 unlocked) (layer "F.Fab")

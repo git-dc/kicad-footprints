@@ -2,7 +2,7 @@
   (tedit 614B7D59)
   (descr "Molex Ultra-Fit 2-pin BLK PCB Lock PN: 172287-1102")
   (fp_text reference "REF**" (at 5.25 5.25 unlocked) (layer "F.SilkS")
-    (effects (font (size 1 1) (thickness 0.15)))
+    (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp ea904ad8-e13a-4506-b071-d4d2102b1cb1)
   )
   (fp_text value "1722871102" (at 0 -6.5 unlocked) (layer "F.Fab")

@@ -4,7 +4,7 @@
   (tags "banana jack mini")
   (attr exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 -3.81) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 7c16aab8-304f-43f2-9cbe-bba679f915eb)
   )
   (fp_text value "TestPoint_Plated_Hole_D2.0mm_1" (at 0 2.45) (layer "F.Fab")

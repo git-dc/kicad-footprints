@@ -4,7 +4,7 @@
   (tags "LGA NoLead")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.286) (layer "F.SilkS" knockout)
-      (effects (font (size 1.016 1.016) (thickness 0.1524)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 0feb6c07-6657-4796-acc8-e95d9fa9aa7c)
   )
   (fp_text value "LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y" (at 0 2.2) (layer "F.Fab")

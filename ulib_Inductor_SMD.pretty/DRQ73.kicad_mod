@@ -1,7 +1,7 @@
 (footprint "DRQ73" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (fp_text reference "REF**" (at 0.127 4.699) (layer "F.SilkS" knockout)
-      (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp d963b472-a073-44f8-bde6-4549aa46812f)
   )
   (fp_text value "DRQ73" (at 0 -4.445 unlocked) (layer "F.Fab")
