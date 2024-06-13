@@ -3,7 +3,7 @@
   (descr "Plated Hole as test Point, diameter 2.0mm")
   (tags "test point plated hole")
   (attr exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "REF**" (at 0 -2.794) (layer "F.SilkS" knockout)
+  (fp_text reference "REF**" (at 0 -2.286) (layer "F.SilkS" knockout)
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 7c16aab8-304f-43f2-9cbe-bba679f915eb)
   )

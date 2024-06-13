@@ -3,7 +3,7 @@
   (descr "Mini Banana Jack for 476-2, -3, or -4")
   (tags "banana jack mini")
   (attr exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "REF**" (at 0 -4.826) (layer "F.SilkS" knockout)
+  (fp_text reference "REF**" (at 0 -3.81) (layer "F.SilkS" knockout)
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 7c16aab8-304f-43f2-9cbe-bba679f915eb)
   )

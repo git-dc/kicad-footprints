@@ -3,7 +3,7 @@
   (descr "Through hole straight socket strip, 2x05, 1.27mm pitch, double cols (from Kicad 4.0.7), script generated")
   (tags "Through hole socket strip THT 2x05 1.27mm double row")
   (attr through_hole)
-  (fp_text reference "REF**" (at -0.635 -2.135) (layer "F.SilkS" knockout)
+  (fp_text reference "REF**" (at -0.635 -1.778) (layer "F.SilkS" knockout)
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp c932166c-60d8-4e1d-a854-a322ddbdf47e)
   )

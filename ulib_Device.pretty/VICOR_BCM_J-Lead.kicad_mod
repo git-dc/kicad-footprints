@@ -2,9 +2,9 @@
   (layer "F.Cu")
   (descr "Vicor DC-DC Converter")
   (tags "converter")
-  (attr through_hole)
-  (fp_text reference "REF**" (at 0 -17.145 180) (layer "F.SilkS" knockout)
-      (effects (font (size 0.508 0.508) (thickness 0.127)) (justify right))
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -16.764 180) (layer "F.SilkS" knockout)
+      (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp c932166c-60d8-4e1d-a854-a322ddbdf47e)
   )
   (fp_text value "VICOR_BCM_J-Lead" (at -0.2667 -1.6891) (layer "F.Fab")
@@ -39,8 +39,8 @@
   (pad "8" smd roundrect (at 8.5598 3.9878) (size 1.3716 7.5184) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 1dffd149-25bd-45f1-af22-7ad6eeaf3a01))
   (pad "8" smd roundrect (at 10.4394 -11.9888) (size 1.3716 7.5184) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp fbf6ee57-4b69-49ed-9258-6a5aab28c6f5))
   (pad "8" smd roundrect (at 10.4394 3.9878) (size 1.3716 7.5184) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9f092d67-a805-414c-9ffb-3a594a3c4a68))
-  (model "/home/dc/Documents/pcb/libs/3dmodels/kicad-3dmodels/PKB4213DPIHS_PKB4313DPIHS-3D-Model.stp"
-    (offset (xyz -29.21 -11.303 3.81))
+  (model "/home/dc/Documents/pcb/libs/3dmodels/kicad-3dmodels/BCM48BF240T300A00.stp"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

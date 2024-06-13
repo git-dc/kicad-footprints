@@ -3,7 +3,7 @@
   (descr "surface-mounted straight 69 pin header, 2x34+1, 1.00mm pitch, double rows")
   (tags "Surface mounted 69 pin header SMD 2x34+1 1.00mm double row")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -20.828) (layer "F.SilkS" knockout)
+  (fp_text reference "REF**" (at 0 -20.574) (layer "F.SilkS" knockout)
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 6d28e232-0807-48c3-b462-2acf73948f17)
   )

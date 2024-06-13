@@ -1,7 +1,7 @@
 (footprint "1054051116" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Molex Nano-Fit 16 pin BLK PN: 105405-1116")
-  (fp_text reference "REF**" (at -1.524 12.954 unlocked) (layer "F.SilkS" knockout)
+  (fp_text reference "REF**" (at -1.524 12.7 unlocked) (layer "F.SilkS" knockout)
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 85f8c0c4-690d-4d21-8a1f-2a6fec29c384)
   )
