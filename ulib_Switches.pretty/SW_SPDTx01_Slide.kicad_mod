@@ -1,5 +1,6 @@
 (footprint "SW_SPDTx01_Slide" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (attr smd)
   (fp_text reference "REF**" (at 0 -5.334) (layer "F.SilkS" knockout)
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 324fa41e-18a5-452c-a86a-c4eeeded33e9)
@@ -187,8 +188,8 @@
   (pad "1" smd roundrect (at -2.5 -2.75) (size 1.25 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e3ec2888-24a8-4aac-b6d6-6c6ee90936e4))
   (pad "2" smd roundrect (at 0 -2.75) (size 1.25 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a1fe5108-7d7b-4611-9b6c-346cb5f9e961))
   (pad "3" smd roundrect (at 2.5 -2.75) (size 1.25 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e668f6e1-bf95-4a57-b297-401b395211d0))
-  (model "${KICAD6_3RD_PARTY}/../3dmodels/JS102011SAQN.step"
-    (offset (xyz 4.445 -1.778 0))
+  (model "/home/dc/Documents/pcb/libs/3dmodels/kicad-3dmodels/JS102011SAQN.step"
+    (offset (xyz 4.445 -1.905 0.254))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )

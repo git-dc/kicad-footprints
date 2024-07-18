@@ -194,4 +194,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "/home/dc/Documents/pcb/libs/3dmodels/kicad-3dmodels/PG100215, Rev A - Jetson DevKit.step"
+    (offset (xyz 4 13.5 46.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 90))
+  )
 )

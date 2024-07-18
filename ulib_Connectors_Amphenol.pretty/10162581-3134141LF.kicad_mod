@@ -247,7 +247,7 @@
   (pad "MP" smd roundrect (at 0 -11.9634) (size 5.842 1.397) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp bc8ac88b-9f34-4862-a989-f524b1f3226f))
   (pad "MP" smd roundrect (at 0 11.9334) (size 5.842 1.397) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8afaf9a9-5085-4635-b9e5-22fbec5304dc))
   (model "/home/dc/Documents/pcb/libs/3dmodels/kicad-3dmodels/10162581-3134141LF--3DModel-STEP-533217.STEP"
-    (offset (xyz 0 6.985 0))
+    (offset (xyz 0 0 -0.1016))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 -90))
   )
