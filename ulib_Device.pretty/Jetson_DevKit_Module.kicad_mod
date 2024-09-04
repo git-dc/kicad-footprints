@@ -194,9 +194,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "/home/dc/Documents/pcb/libs/3dmodels/kicad-3dmodels/PG100215, Rev A - Jetson DevKit.step"
-    (offset (xyz 4 13.5 46.5))
+  (model "/home/dc/Documents/pcb/libs/3dmodels/kicad-3dmodels/102110268 - JETSON NANO DEVELOPER KIT, NVIDIA, NO SINK.step"
+    (offset (xyz 44.069 -21.336 11.43))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 180 90))
+    (rotate (xyz 0 180 0))
   )
 )
